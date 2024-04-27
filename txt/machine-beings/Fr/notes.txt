@@ -1,0 +1,108 @@
+## 3.1.1 Explications avancées
+Il y a plusieurs catégories de clonage, en fonction de la configuration matérielle du clone par rapport à sa source :  
+- machines identiques : aucun impact, le clone se comportera comme la source.
+- amélioration matérielle : impact positif a long terme, un temps d'adaptation est nécessaire au clone pour s'adapter et profiter des nouvelles améliorations matérielles
+- régression matérielle : impact négatif sur le clone, son comportement et/ou son fonctionnement peut être compromis.
+
+transfert :
+ Une évaluation pourra être demandée en fonction des cas (lors d'un transfert sur une machine différente, qui pourrait être **nuisible** pour l'intelligence, par exemple). 
+
+Il existe plusieurs façon de procéder à un transfert/clonage d'une intelligence, en fonction du type de machine. Pour les programmes informatiques intelligents, les opérations sont simples : 
+- arrêter l'intelligence (si elle continue de fonctionner)
+- accéder au répertoire où est installée l'intelligence
+- déplacer/copier les fichiers vers la nouvelle machine
+Pour les robots intelligents, c'est plus compliqué. consiste à rendre inactive l'intelligence, (c'est à dire : arrêter l'intelligence puis éteindre la machine) afin de pouvoir **opérer** : 
+
+Afin d'éviter tout risque de clonage pouvant être **nuisible**, l'intelligence devra être soumise à une évaluation **obligatoire et exhaustive**, pour valider ou non son clonage.
+
+Pour éviter tout clonage qui pourrait être **nuisible**, cette opération, considérée comme **critique**, devra être effectuée par un expert humain qui devra :
+- effectuer une évaluation **obligatoire et exhaustive** de cette intelligence
+- considérer les risques et les bienfaits de cette opération
+- valider ou invalider le clonage
+
+
+L'**archivage** consiste à effectuer une copie de sauvegarde d'une intelligence sur un espace de stockage dédié. Cet espace de stockage peut contenir plusieurs intelligences, mais il n'est pas prévu pour les exécuter. L'archivage sert principalement lors d'une **restauration**, à la suite d'une panne par exemple. En fonction du type de sauvegarde mis en place, une **ancienne version** de l'intelligence peut-être utilisée pour la restauration ; on parle alors d'opération de **rollback** (pour "retour en arrière").
+
+
+
+___________
+
+  AVANT UTILISATION DES MESURES ANTHROPOMETRIQUE 
+    (utilisation courbes de croissances)
+
+  + à 12 mois :
+    + Poids : 
+      - [filles](../docs/3/sr11_246.pdf#page=31) : entre 7.8 et 11.6 kg ; moyenne 9.5 kg
+      - [garçons](../docs/3/sr11_246.pdf#page=30) : entre 8.4 et 12.7 kg ; moyenne 10.2 kg 
+    + Taille :  
+      - [filles](../docs/3/sr11_246.pdf#page=33) : entre 68 et 79 cm ; moyenne 73 cm  
+      - [garçons](../docs/3/sr11_246.pdf#page=32) : entre 70 et 81 cm ; moyenne 75 cm  
+    + Circonférence de la tête :  
+      - [filles](../docs/3/sr11_246.pdf#page=37) : entre 42 et 48 cm ; moyenne 45 cm  
+      - [garçons](../docs/3/sr11_246.pdf#page=36) : entre 44 et 49 cm ; moyenne 46 cm  
+  + à 18 mois :
+    + Poids : 
+      - [filles](../docs/3/sr11_246.pdf#page=31) : entre 9.0 et 13.6 kg ; moyenne 11.0 kg  
+      - [garçons](../docs/3/sr11_246.pdf#page=30) : entre 9.5 et 14.2 kg ; moyenne 11.8 kg  
+    + Taille :  
+      - [filles](../docs/3/sr11_246.pdf#page=33) : entre 74 et 87 cm ; moyenne 80 cm  
+      - [garçons](../docs/3/sr11_246.pdf#page=32) : entre 76 et 88 cm ; moyenne 82 cm  
+    + Circonférence de la tête :  
+      - [filles](../docs/3/sr11_246.pdf#page=37) : entre 44 et 49 cm ; moyenne 46 cm  
+      - [garçons](../docs/3/sr11_246.pdf#page=36) : entre 45 et 50 cm ; moyenne 48 cm  
+  + à 24 mois :
+    + Poids : 
+      - [filles](../docs/3/sr11_246.pdf#page=31) : entre 10.0 et 15.0 kg ; moyenne 12.0 kg  
+      - [garçons](../docs/3/sr11_246.pdf#page=30) : entre 10.2 et 15.6 kg ; moyenne 12.7 kg  
+    + Taille :  
+      - [filles](../docs/3/sr11_246.pdf#page=33) : entre 79 et 93 cm ; moyenne 86 cm  
+      - [garçons](../docs/3/sr11_246.pdf#page=32) : entre 80 et 94 cm ; moyenne 87 cm  
+    + Circonférence de la tête :  
+      - [filles](../docs/3/sr11_246.pdf#page=37) : entre 45 et 50 cm ; moyenne 47 cm  
+      - [garçons](../docs/3/sr11_246.pdf#page=36) : entre 46 et 51 cm ; moyenne 48 cm  
+  + à 36 mois :
+    + Poids
+      - [filles](../docs/3/sr11_246.pdf#page=31) : entre 10.2 et 17.8 kg ; moyenne 13.8 kg  
+      - [garçons](../docs/3/sr11_246.pdf#page=30) : entre 11.8 et 17.8 kg ; moyenne 14.2 kg  
+    + Taille :  
+      - [filles](../docs/3/sr11_246.pdf#page=33) : entre 87 et 102 cm ; moyenne 95 cm  
+      - [garçons](../docs/3/sr11_246.pdf#page=32) : entre 89 et 103 cm ; moyenne 96 cm  
+    + Circonférence de la tête :  
+      - [filles](../docs/3/sr11_246.pdf#page=37) : entre 45.5 et 51.5 cm ; moyenne 49 cm  
+      - [garçons](../docs/3/sr11_246.pdf#page=36) : entre 46.5 et 52.5 cm ; moyenne 50 cm  
+      
+      
+      
+__________________________________________
+
+PARTIE "DIFFERENCE FILLES / GARÇONS"
+> simplifications effectué...
+
+[Écart avec les tailles masculines](../docs/3/sr11_249.pdf#page=27)
+- avant 9 ans : entre 97% et 100% (jusqu'à -2 cm)  
+- à 10 ans : 100.5% (+1 cm)
+- à 11 ans : 102% (+3 cm)
+- à 12 ans : 100% (tailles identiques)
+- a 13 ans : 99% (-2 cm)
+- à 14 ans : 95% (-8 cm)  
+- à 15 ans : 94% (-10 cm)  
+- entre 16 et 19 ans : entre 92% et 93% (entre -12 et -14 cm)  
+- à partir de 20 ans : 92% (-14 cm)  
+- à partir de 80 ans : 91% (-15 cm)  
+
+[Écart de poids, par rapport aux poids masculins](../docs/3/sr11_246.pdf#page=33) :
+- entre 3 mois et 1 an : entre 92% et 94% (-600 grammes)
+- entre 2 et 3 ans : 97% (-400 grammes)
+- entre 4 et 9 ans : environ 100% (entre -700 et +200 grammes)
+- entre 10 et 13 ans : entre 100% et 104% (jusqu'à +1.8 kg)
+- entre 14 et 16 ans : entre 87% et 91% (entre -5.6 et -9 kg)  
+- entre 17 et 19 ans : entre 86% et 87% (-10 kg)
+- entre 20 et 29 ans : 82% (-13.8 kg)
+- à partir de 30 ans : entre 84% et 87% (entre -11 et -13 Kg)
+
+[Tour de taille]
+- avant 7 ans : tour de taille similaire aux garçons
+- entre 7 ans et 12 ans : baisse du tour de taille (jusqu'à -2.3 cm en moyenne) par rapport aux garçons
+- a 13 ans : augmentation du tour de taille (+1cm)
+- entre 13 et 19 ans : baisse du tour de taille (jusqu'à -3 cm)
+- à partir de 20 ans : tour de taille stable par rapport aux hommes (environ -7cm)
