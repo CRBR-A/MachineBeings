@@ -1,0 +1,3 @@
+! Mathématiques
+! modélisation d'un système, création d'un modèle (prédictif)
+! utiliser exemple ncase ?

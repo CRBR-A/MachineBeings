@@ -1,0 +1,8 @@
+Une ressource est un élément utile et exploitable par un système, permettant la réalisation d'une partie de son objectif. Elles sont classées par ordre d'importance et de transformation :
+- vitale : elle est essentielle et irremplaçable, toute pénurie impacterait fortement le fonctionnement immédiat et nuirait rapidement au système
+- non-vitale : elle est remplaçable ou facultative, une pénurie retarderait la réalisation de l'objectif et nuirait progressivement au système
+- déchet : ressource devenue inutile, inexploitable et indésirable d'un système
+- brute : ayant subi aucune transformation, elle devra être transformée avant de pouvoir être utilisée
+- affinée : ayant subi au moins une transformation
+
+Il existe de nombreux types de ressources : une matière première, une marchandise, une main d’œuvre (ou ressource humaine), une information, un service... 

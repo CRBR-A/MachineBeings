@@ -1,0 +1,7 @@
+La notion d'appartenance est utilisée pour délimiter une frontière entre le système et l'extérieur (tout ce qui n'en fait pas partie).
+
+Une ressource peut être interne (ou à l'intérieur) ou externe (à l'extérieur), en fonction de son appartenance, ou non, à un système. 
+
+
+! combiner : frontière ET domaine (thème) ET échelle (taille)
+! exemple échelle : cellulaire, 

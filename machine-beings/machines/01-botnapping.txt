@@ -1,0 +1,14 @@
+Les enlèvements, ou "botnapping"
+
+enlever ou voler de force (contre le gré) des programmes ou robots intelligents.
+
+- vol des bots
+- enlèvement des robots 
+  - récupérer le matériel (le support physique)
+  - corrompre ou reprogrammer l'intelligence
+
+- Obtenir des informations 
+- détourner la machine pour un autre usage
+- vendre au marché noir
+
+Mettre en place plusieurs moyens de protection comme l'identification unique (numéro de série) ou le traçage, mais elles ont toutes des limites et peuvent être contournées.

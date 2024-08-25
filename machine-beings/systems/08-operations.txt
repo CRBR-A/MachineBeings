@@ -1,0 +1,32 @@
+Il existe une multitude d'opérations sur les systèmes. Voici les principales.
+
+Les opérations concernant le fonctionnement du système :
+- la détection rapide de la présence ou non d'une ressource
+- la recherche d'une ressource inconnue (à chercher) ou connue (à rechercher)
+- l'identification 
+- la vérification 
+- l'analyse rapide d'une ressource pour connaître son état
+- l'inspection détaillée
+- la surveillance
+- l'évaluation 
+- la validation des critères
+- la notation et la comparaison de plusieurs performances ou résultats
+  
+Les opérations de **déplacement**, ou flux, d'une ressource :
+- le transfert vers un environnement similaire
+- la migration vers un environnement différent
+  
+Opération de **reproduction** :
+- la copie d'une ressource vers un autre environnement
+  
+Les opérations de **maintenance** :
+- la réparation
+- le trie des ressources
+- le nettoyage des ressources devenues inutiles
+- la suppression des ressources
+- l’évolution, ou la mutation, 
+- l'archivage
+- la sauvegarde d'une copie inactive
+- la restauration d'un système à l'aide d'une copie de sauvegarde
+
+Pour caractériser toutes les opérations effectuées par le système lui-même, on utilise le préfixe "auto-", comme : auto-analyse, auto-évaluation, auto-réparation...

@@ -1,0 +1,22 @@
+La vie est l'ensemble des événements vécues par un système, depuis sa création jusqu'à sa mort. Chaque vie est unique, propre à un système. 
+
+Tout système est actif ou inactif, en fonction de son état d'activation. Plusieurs états, ou phases, peuvent survenir :
+- création : phase de conception ou préparatoire avant le premier lancement
+- lancement ou démarrage : instant où le système fonctionne pour la première fois
+- arrêt : fonctionnement interrompu, pendant un délai plus ou moins long
+- redémarrage : lancement à la suite d'un arrêt
+- pause : court arrêt 
+- reprise : lancement rapide à la suite d'une pause
+- mort : arrêt définitif et irréversible, le système cesse de fonctionner et d'exister
+
+Le concept de temps écoulé est essentielle dans toute vie, car elle permet de caractériser l'évolution d'un système :
+- immature : un système qui est jeune et n'a pas encore atteint son fonctionnement optimal/maximal
+- mature : un système devenu efficace et performant
+- obsolète : un système devenu moins efficace ou moins fonctionnel, par rapport à des systèmes plus récents
+- âgé : un système usé par le temps, en perte d'efficacité et de performance, qui se rapproche progressivement de la mort
+
+Plusieurs générations de systèmes peuvent se succéder.
+
+Plusieurs causes peuvent provoquer un arrêt du système, comme un arrêt de longue durée.
+
+L'expérience est la somme de tous les faits marquants d'un système, 

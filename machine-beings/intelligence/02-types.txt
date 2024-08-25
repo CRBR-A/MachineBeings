@@ -1,0 +1,11 @@
+Pour illustrer cette partie, prenons l'exemple de la réalisation d'un gâteau, par un professionnel et par un consommateur. Tandis que le professionnel a appris toutes les bases dans une école de pâtisserie ; le consommateur a pu déguster tous les gâteaux possibles en boutique, et collecter quelques informations (comme le nom du gâteau, la liste des ingrédients, l'avis d'un professionnel, la forme du gâteau...), mais sans obtenir la recette. Au final, les 2 gâteaux proposés seront très différents. Le gâteau du professionnel, réalisé à partir d'une recette apprise et maîtrisée, sera toujours parfait, répondant aux demandes des clients. Le gâteau du consommateur, réalisé à partir de toutes les informations récoltées lors des dégustations, sera toujours imparfait et jamais identique. 
+
+Il y a 2 grandes classes d'intelligence artificielle :
+- les quantitatives
+- les qualitatives
+
+Les intelligences artificielles génératives (qui produisent du contenu) fonctionnent comme le consommateur de l'exemple. Pour fonctionner, elles sont "gavées" de contenus...
+
+Les intelligences quantitatives consistent à créer un modèle (ou "généraliser"), à l'aide d'une grande quantité de données et de nombreuses ressources matérielles à disposition. Elles se spécialisent par rapport au type de données.
+
+Les intelligences qualitatives sont plus difficiles à créer et nécessite un apprentissage très contrôlé (comme celui des humains). Elles ont l'avantage d'être plus générale, avec moins de matériel.

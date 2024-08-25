@@ -1,0 +1,8 @@
+Un système est un ensemble de parties fonctionnelles qui, organisées entre elles, permettent l'accomplissement d'un objectif. La grande majorité des systèmes ont pour objectif d'exploiter et de produire des ressources. Dénommés "producteurs", ils fonctionnent de la manière suivante :
+1. se protéger contre un dysfonctionnement ou une défaillance du système  
+2. réceptionner les ressources à l'entrée du système  
+3. stocker les ressources pour un traitement immédiat ou ultérieur  
+4. traiter les ressources internes pour en produire de nouvelles  
+5. transmettre les ressources produites vers l'extérieur
+
+D'autres systèmes, comme les "consommateurs", ne produisent pas et n'expédient pas de ressources : ils se contentent de les consommer, ou de les détruire. Puisque ces ressources sont perdues, ces systèmes sont peu rentables, mais nécessaires dans certains cas, comme pour le traitement des déchets.  

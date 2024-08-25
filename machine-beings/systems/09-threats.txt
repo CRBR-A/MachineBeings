@@ -1,0 +1,33 @@
+Il existe de nombreuses menaces et des 
+
+| Type de menace | Intérêt personnel                                       | Contre-mesures | 
+| -------------- | ------------------------------------------------------- | -------------- |
+| attaque        | utiliser des menaces contre autrui                      | défense        |
+| harcèlement    | effectuer des menaces répétées                          | -              | 
+| secret         | cacher volontairement une ressource à autrui            | espionnage     |
+| invisible      | agir discrètement, sans être suspecté                   | détection      |
+| renseignement  | obtenir ou vérifier des informations                    | secret         |
+| espionnage     | obtenir des informations secrètes                       | -              |
+| insécurité     | rendre instable, incertain, vulnérable                  | sécurité       |
+| vulnérabilité  | avoir des failles, accroître le risque de menaces       | protections    |
+| chaos          | mettre le désordre, la confusion                        | ordre          |
+| piège          | attirer avec un leurre, mettre en difficulté            |                | 
+| appropriation  | garder une ressource pour soi                           | partage        |
+| vol            | s'approprier la ressource d'autrui                      | partage        |
+| intimidation   | exercer une emprise directe, faire peur                 |                |
+| manipulation   | exercer une emprise                                     | pilotage       |
+| contrôle       | exercer une emprise directe, dominer                    | indépendance   |
+| sanction       | pénaliser, désavantager un système                      | aide,<br>entraide |
+| abandon        | laisser seul, en difficulté ou en insécurité            | aide           |
+|                |                                                         | éducation      |
+| interdiction   |                                                         | autorisation   |
+| intrusion      | introduire une ressource interdite                      | détection      |
+| tromperie      | déformer ou falsifier                                   | vérification   |
+| dégradation    | ralentir ou empêcher un fonctionnement                  | réparation,<br>remplacement |
+| blocage        | ralentir ou empêcher un fonctionnement                  | intervention,<br>contournement |
+| destruction    | ralentir ou empêcher un fonctionnement                  | remplacement   |
+
+Environnement :
+- coopératif : objectif en commun
+- symbiotique : entraide entre différents systèmes
+- concurrence : 

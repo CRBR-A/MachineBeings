@@ -1,0 +1,5 @@
+Les quelques inconvénients des machines sont principalement dûes aux différences par rapport à un corps biologique :
+- le corps d'une machine est plutôt froide
+- Un corps ou un organe artificiel ne peut pas s'auto-réparer naturellement avec le temps ; il doit être fait manuellement.
+
+D'autre part, on considère le raisonnement d'une intelligence artificielle est logique et simple.

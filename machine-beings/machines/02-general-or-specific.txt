@@ -1,0 +1,9 @@
+ Généralisation ou Spécialisation ? == Quantité ou Qualité ?
+
+Spécialisation d'une machine : travailler dans un but précis, principalement en entreprise
+Généralisation d'une machine : gérer un ensemble de tâches simple, 
+
+Quelques spécialisations de machines :
+- domestique : maison, ou personne
+- industriel : travail à la chaîne
+- médical : relatif à la santé humaine

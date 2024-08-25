@@ -1,0 +1,9 @@
+Il y existe plusieurs moyens de réaliser un objectif. Néanmoins, un système va essayer de réaliser l'objectif, tout en étant le plus performant : augmenter les quantités produites et réduire les coûts... 
+Industrialisation
+
+! définir automatique, automatisation, automate
+! automatiser :  rendre automatique (sans intervention extérieure) pour gagner du temps
+! définir normalisation
+
+
+! traitement séquentiel ou parallèle (=simultané)

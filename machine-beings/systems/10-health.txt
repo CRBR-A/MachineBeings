@@ -1,0 +1,15 @@
+
+Toute opération peut avoir un impact positif ou négatif sur une ressource : amélioration ou régression
+Opération dite critique quand elle peut avoir un lourd impact sur la ressource : 
+Nuisible si elle crée ou accroît un problème 
+
+
+
+! santé d'un système
+! Résistance d'un système (résistance d'un changement)
+! intégrité
+
+
+
+
+Un **carnet d'entretien** est un document retraçant toutes les informations liées à une machine. Pour les humains et les animaux, il est appelé "carnet de santé" . Il regroupe tous les documents, évaluations, informations, modifications apportées...

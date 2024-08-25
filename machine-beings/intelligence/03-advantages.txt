@@ -1,0 +1,7 @@
+Une machine :
+- ne peut pas être infectée par des maladies humaines, ni les transmettre (si sa surface est désinfectée)
+- peut fonctionner dans des conditions extrêmes (températures glaciales ou brûlantes, en absence d’oxygène, d'eau ou de nourriture)
+- est plus forte et plus résistante qu'un être biologique
+- ne se sent pas la douleur (aucun nocicepteurs, les capteurs de la douleur)
+- ne se fatigue jamais
+- peut-être clonée, pour accroître le nombre de machines performantes

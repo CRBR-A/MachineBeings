@@ -1,0 +1,14 @@
+Les relations entre l'Homme et la Machine sont complexes, et soulèvent de nombreuses **questions éthiques** :
+- est-ce qu'une machine consciente peut comprendre le fonctionnement physiologique d'un être vivant différent du sien ?
+- est-ce qu'une machine intelligente peut s'occuper et soigner seule un être vivant différent d'elle ?
+- est-ce qu'une machine doit remplacer l'humain, pour être rentable dans une entreprise ?
+- est-ce qu'une machine consciente peut vivre comme n'importe quel être vivant ?
+- est-ce qu'une machine consciente peut participer à la vie citoyenne et politique humaine ? 
+- est-ce qu'une intelligence artificielle peut prédire, surveiller ou dicter les faits et gestes d'une personne, pour l'aider ou servir un intérêt général ?
+- est-ce qu'une machine consciente peut rivaliser, voire dépasser, l'être humain ?
+- est-ce qu'une machine consciente peut vouloir faire du mal à un être vivant ?
+- est-ce qu'une machine consciente peut aimer un être vivant ?
+
+À toutes ces questions, la réponse est : "OUI, MAIS l'expert humain devra toujours définir un cadre licite et juste pour toutes les parties concernées, veiller au respect de celui-ci et intervenir en cas de dérive."
+
+"*Science sans conscience n'est que ruine de l'âme*" (François Rabelais)

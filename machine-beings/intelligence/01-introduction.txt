@@ -1,0 +1,11 @@
+Dans cette partie, une introduction aux systèmes intelligents est proposée, afin de comprendre les notions importantes. Une analyse plus poussée est proposée dans le guide techniques.
+
+
+intelligence : le fait de s'adapter, d'apprendre. 
+Avancer en apprenant de ses erreurs. 
+
+! Différences intelligence générale et intelligence artificielle (=entraînés pour un but précis)
+
+Un bot est un programme intelligent, contenu dans une machine immobile, qui ne peut pas se déplacer elle-même, comme un ordinateur, un smartphone, ou un bras industriel. Si la machine est mobile et peut se déplacer seul dans son environnement, on parle de robot. 
+
+Les drones sont une catégorie de robot à part. Ils peuvent être volants, roulants ou rampants, mais peuvent être contrôler à distance par un pilote.

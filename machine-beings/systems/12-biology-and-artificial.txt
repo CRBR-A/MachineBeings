@@ -1,0 +1,14 @@
+Un système est **biologique** quand il a été créé uniquement par la nature (et la chance). Les êtres humains, les animaux, les plantes sont des systèmes biologiques. 
+
+! frontière : le corps, domaine : le vivant.
+
+! humains, animaux : systèmes complexes, nombreuses parties = 'organes' = 'fonctions'
+! à noter : les cellules biologiques contiennent un code génétique (adn)...
+!!!! but biologique ???? se reproduire !!!!
+
+
+Dans un système biologique, l'état actif correspond à **vivant**, mais il n'y a pas d'état inactif. En effet, le système biologique est toujours actif et vivant, mais tout arrêt (changement de l'état actif à inactif) entraîne la mort, le système n'étant pas capable de se relancer. 
+
+Un système est **artificiel** quand il a été conçu et créé dans un but précis, par une personne. Il est donc non-biologique, ou non-naturel. Toutes les machines humaines sont des systèmes artificiels.
+
+! but : principalement en tant qu'outil

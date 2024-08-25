@@ -1,0 +1,5 @@
+La somme des ressources nécessaires pour produire un ensemble de ressources est appelé coût. Il peut être calculé en fonction de la valeur, de l'importance, de la quantité, de la qualité ou du temps nécessaire pour produire ou obtenir ces ressources. Le rapport entre ressources "entrantes" et "sortantes", en terme de quantité, de qualité ou de temps, est appelé rendement. Dans un système efficace et performant, ce rendement est élevée. Pour cela, il doit produire beaucoup, en un minimum de temps, avec des coûts et des pertes minimaux, sans négliger la qualité.
+
+
+! Bénéfices et pertes, risques (=incertitudes)
+! système "spéciaux" : exemples comme 'loopy' de ncase.

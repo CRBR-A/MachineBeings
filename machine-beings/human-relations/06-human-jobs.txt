@@ -1,0 +1,31 @@
+Dépend de la classe sociale, et notamment l'emploi occupé :
+- les salariés, majoritairement hostiles envers les machines, face à la perte d'emploi ou baisse de revenu
+- les responsables d'équipe, méfiants ou sympathiques envers les machines
+- les formateurs, essentiels pour les machines (jusqu'à ce qu'elles soient parfaites et clonées...)
+- les réparateurs, essentiels pour le bon fonctionnement des machines 
+- les dirigeants, acceptent ou amicaux avec les machines
+
+
+<a id="impacts_emplois_menaces"></a>
+### 4.2.1. Les emplois menacés
+
+Tous les métiers comportant peu de tâches sont directement impactés. A terme, ces métiers "simples" seront remplacés par des machines, moins chères et plus performantes.
+Quelques types d'emploi :
+- ménage, tondre la pelouse
+- surveillance fixe
+
+<a id="impacts_emplois_conserves"></a>
+### 4.2.1. Les emplois conservés
+
+formateur et responsables
+
+<a id="impacts_emplois_hybrides"></a>
+### 4.2.1. Les emplois hybrides
+
+Emplois hybrides : emploi combinant humain et machine conscientes.
+Pourquoi ? 
+Principalement : supervision humaine du travail effectué par une machine
+
+Domaines, considérés comme "critiques", touche directement l'humain :
+- la Santé
+- l'alimentation humaine
